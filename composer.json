@@ -1,6 +1,6 @@
 {
     "name": "plaidfoxsg/ticketit7",
-    "description": "A simple helpdesk tickets system for Laravel 5.1 – 5.8 and 6.* which integrates smoothly with Laravel default users and auth system",
+    "description": "An update for korby/ticketit for Laravel 7",
     "type": "laravel-package",
     "keywords": ["laravel","helpdesk", "ticket", "support"],
     "require": {
